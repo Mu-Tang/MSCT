@@ -1,0 +1,81 @@
+# ---- Python General ----
+__pycache__/
+*.py[cod]
+*.so
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# ---- Virtual Environments ----
+venv/
+ENV/
+env/
+env.bak/
+.venv/
+
+# ---- Jupyter Notebooks ----
+.ipynb_checkpoints
+
+# ---- VSCode / PyCharm / Editor Files ----
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# ---- Operating System Files ----
+.DS_Store
+Thumbs.db
+
+# ---- Data Files (Optional, if you generate output) ----
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.h5
+*.hdf5
+*.npy
+*.npz
+*.pkl
+*.joblib
+*.db
+
+# ---- Results, Figures, Logs ----
+results/
+result/
+logs/
+logs_*/
+figures/
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.svg
+
+# ---- Model Checkpoints ----
+model_weights/
+model_weights_best/
+*.pth
+*.pt
+
+# ---- Other ----
+*.bak
+*.tmp
+*.swp
+*.swo
