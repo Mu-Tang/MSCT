@@ -10,9 +10,13 @@ The project integrates model training, load prediction, and error visualization 
 
 ## 🚀 Features
 --Multi-scale load feature extraction using convolutional networks
+
 --Sensor spatial information encoding via absolute positional embedding
+
 --Cross-scale attention mechanism to capture local-global dependencies
+
 --Accurate multi-directional load prediction (X, Y, Z axes) based on real aircraft calibration tests
+
 --Modular code structure, easy for extension and further model development
 
 ---
