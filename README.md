@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # MSCT
 MSCT is a machine learning-based system for **aircraft landing gear load prediction**, evaluation, and visualization.  
 The project integrates model training, load prediction, and error visualization modules.
