@@ -50,7 +50,7 @@ LandingGearProject/
 1. Clone this repository:
 
 ```
-git clone https://github.com/your-username/LandingGearProject.git
+git clone https://github.com/Mu-Tang/MSCT.git
 cd LandingGearProject
 ```
 
